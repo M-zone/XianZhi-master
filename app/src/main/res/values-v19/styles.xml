@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppTheme.LaunchStyle" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppTheme.TransparentStatusBar" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <dimen name="toolbar_padding_top">25dp</dimen>
+</resources>
